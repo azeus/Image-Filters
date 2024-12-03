@@ -59,13 +59,13 @@ Usage
 Each filter can be applied to an image using the respective scripts. Here’s how you can get started:
 	1.	Clone the repository:
 
-git clone <repo-url>
+git clone repo-url
 cd Image-Filters
 
 
 	2.	Run any filter script:
 
-python <filter-script>.py
+python filter-script.py
 
 
 	3.	Provide the path to your image when prompted, and explore the effects!
